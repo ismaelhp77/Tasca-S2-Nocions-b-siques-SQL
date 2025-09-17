@@ -1,2 +1,0 @@
-DESC company ;
-DESC transaction ;
